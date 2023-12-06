@@ -1,0 +1,1 @@
+Quick repo to put all advent of code 2023 work in
